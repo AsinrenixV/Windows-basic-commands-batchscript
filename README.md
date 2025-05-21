@@ -34,18 +34,18 @@ Remove the directory "my-folder"
 
 
 Create the file Rose.txt
-![alt text](<img/Screenshot 2025-05-21 102426.png>)
-
+![alt text](<img/Screenshot 2025-05-21 152452.png>)
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
-![alt text](<img/Screenshot 2025-05-21 102501.png>)
+![alt text](<img/Screenshot 2025-05-21 152518.png>)
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
-![alt text](<img/Screenshot 2025-05-21 102555.png>)
+![alt text](<img/Screenshot 2025-05-21 152553.png>)
+
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
